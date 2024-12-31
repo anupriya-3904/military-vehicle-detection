@@ -1,0 +1,6 @@
+train: C:/Users/Public/pythonProject3/dataset/train
+val: C:/Users/Public/pythonProject3/dataset/validation # validation images directory
+test: C:/Users/Public/pythonProject3/dataset/test # optional
+
+nc: 10  # number of classes (number of military vehicle types)
+names: ['tank', 'light utility vehicle', 'armored personnel carrier', 'infantry fighting vehicle', 'anti-aircraft', 'self-propelled artillery', 'mine-protected vehicle', 'armored combat support vehicle', 'prime movers and trucks', 'light armored vehicle']
